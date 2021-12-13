@@ -25,7 +25,7 @@ Multi-process is never as good as multi-threading, though does beat single-threa
 Step to run:
 
   - Update [config.py](config.py) to change drives/paths to your own computer.
-  - Execute the [make_files.py](make_files.py) script to run the test.
+  - Execute the [concat_csvs.py](concat_csvs.py) script to run the test.
 
 ### Results
 
